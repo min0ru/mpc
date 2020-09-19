@@ -1,7 +1,9 @@
 Micro Parser Combinators
 ========================
 
-Version 0.9.0
+Version 0.9.0 (Fork)
+
+This version is forked from original [orangeduck/mpc](https://github.com/orangeduck/mpc) to implement very basic CMake build system.
 
 
 About
